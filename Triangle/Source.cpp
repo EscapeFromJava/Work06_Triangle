@@ -40,7 +40,7 @@ int main()
 
 double perim(double a, double b, double c)
 {
-	return (a + b + c) / 2;
+	return a + b + c;
 }
 
 double square(double p, double a, double b, double c)
